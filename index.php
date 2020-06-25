@@ -377,16 +377,16 @@
 
         <!-- jQuery -->
 
-        <script src="js/bootstrap.min.js"></script>
-        <script src="js/jquery.placeholder.js"></script>
-        <script src="js/jquery.easing.min.js"></script>
-        <script src="js/jarallax/jarallax.js"></script>
-        <script src="js/slick/slick.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+        <script src="https://mathiasbynens.github.io/jquery-placeholder/jquery.placeholder.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js"></script>
+        <script src="http://jarallax.com/download/jarallax-0.2.4b.min.js"></script>
+        <script src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
         <script src="js/theme.js"></script>
         <script src="js/contact.js"></script>
 
         <!-- Mailchimp -->
-        <script type="text/javascript" src="js/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.min.js"></script>
         <script>
                 // this is the id of the form
                 $("#idForm").submit(function (e) {
