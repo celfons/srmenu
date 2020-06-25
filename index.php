@@ -16,7 +16,7 @@
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400,400i,700,900" rel="stylesheet"> 
-        <link href="https://fontawesome.com/v4.7.0/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+        <link href="font-awesome.css" rel="stylesheet" type="text/css">
         <link href="css/icons/style.css?2020-06-08 11:04:40" rel="stylesheet" type="text/css">
 
         <!-- Core CSS -->
