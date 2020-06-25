@@ -16,12 +16,12 @@
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400,400i,700,900" rel="stylesheet"> 
-        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="https://fontawesome.com/v4.7.0/assets/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
         <link href="css/icons/style.css?2020-06-08 11:04:40" rel="stylesheet" type="text/css">
 
         <!-- Core CSS -->
-        <link rel="stylesheet" href="css/bootstrap.min.css?2020-06-08 11:04:40">
-        <link rel="stylesheet" href="js/slick/slick.css?2020-06-08 11:04:40">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://kenwheeler.github.io/slick/slick/slick.css">
 
         <!-- Theme CSS -->
         <link href="css/style.css?2020-06-08 11:04:40" rel="stylesheet">
@@ -33,7 +33,7 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <script src="js/jquery.js"></script>
+        <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
         <php>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123784172-1"></script>
