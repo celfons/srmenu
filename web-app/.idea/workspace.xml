@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/app/control/pedidos/PedidoForm.php" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3265ceda-7ff2-4fc9-8760-5f6100b9a713" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/GeraNFe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/testaNFCe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaNFCeQrCode.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaNFCeQrCode.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/nfephp/tests/NFe/ToolsNFeTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/nfephp/tests/NFe/ToolsNFeTest.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="DDL data source" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TConnection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/adianti/database/TConnection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>setvalue</find>
+      <find>addQuickColumn</find>
+      <find>TDBUniqueSearch</find>
+      <find>onSearch</find>
+      <find>EstadoPedido</find>
+      <find>mesa_id</find>
+      <find>mesa_pedido_id</find>
+      <find>estad</find>
+      <find>TLabel</find>
+      <find>onEdit</find>
+      <find />
+      <find>relato</find>
+      <find>rela</find>
+      <find>forne</find>
+      <find>zend</find>
+      <find>$active</find>
+      <find>onAddItemPedido</find>
+      <find>getBetween</find>
+      <find>json_encode</find>
+      <find>get_produto</find>
+      <find>item_pedido_list</find>
+      <find>$chave</find>
+      <find>ubera</find>
+      <find>CFOP</find>
+      <find>CNAE</find>
+      <find>natOp</find>
+      <find>0302300</find>
+      <find>65</find>
+      <find>3.</find>
+      <find>nfc</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\Programas\VMware\wamp64\www\microerp</dir>
+      <dir>D:\Programas\VMware\wamp64\www\srmenu\app</dir>
+      <dir>D:\Programas\VMware\wamp64\www\srmenu</dir>
+      <dir>D:\Programas\VMware\wamp64\www\testestudio</dir>
+      <dir>C:\wamp64\www\srmenu</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/vendor/nfephp" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/documents/PedidoDocument.html" />
+        <option value="$PROJECT_DIR$/app/control/cozinha/CpedidoFormView.php" />
+        <option value="$PROJECT_DIR$/app/control/admin/SystemUnitList.class.php" />
+        <option value="$PROJECT_DIR$/app/control/admin/SystemUnitForm.class.php" />
+        <option value="$PROJECT_DIR$/app/control/cozinha/CpedidoList.php" />
+        <option value="$PROJECT_DIR$/app/model/admin/SystemUser.class.php" />
+        <option value="$PROJECT_DIR$/app/model/MesaPedido.class.php" />
+        <option value="$PROJECT_DIR$/x.xml" />
+        <option value="$PROJECT_DIR$/menu.xml" />
+        <option value="$PROJECT_DIR$/app/control/cadastros_basicos/MesaPedidoList.php" />
+        <option value="$PROJECT_DIR$/app/control/cadastros_basicos/MesaPedidoForm.php" />
+        <option value="$PROJECT_DIR$/app/control/relatorios/MesaQRCode.php" />
+        <option value="$PROJECT_DIR$/app/control/relatorios/PedidoDocument.php" />
+        <option value="$PROJECT_DIR$/app/control/relatorios/ProdutoReport.php" />
+        <option value="$PROJECT_DIR$/app/control/relatorios/ProdutoBarCode.php" />
+        <option value="$PROJECT_DIR$/app/control/cadastros_basicos/ProdutoList.php" />
+        <option value="$PROJECT_DIR$/app/control/pedidos/PedidoFormView.php" />
+        <option value="$PROJECT_DIR$/app/control/pedidos/PedidoList.php" />
+        <option value="$PROJECT_DIR$/app/control/cozinha/CpedidoForm.php" />
+        <option value="$PROJECT_DIR$/app/control/admin/LoginForm.class.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/649ec280-a18a-4252-b754-1fdf99064c0f/console.sql" />
+        <option value="$PROJECT_DIR$/app/model/Pedido.class.php" />
+        <option value="$PROJECT_DIR$/app/service/UserService.php" />
+        <option value="$PROJECT_DIR$/auth.php" />
+        <option value="$PROJECT_DIR$/rest/sample_login.php" />
+        <option value="$PROJECT_DIR$/rest/post.php" />
+        <option value="$PROJECT_DIR$/rest/produto_load.php" />
+        <option value="$PROJECT_DIR$/app/service/PedidoService.php" />
+        <option value="$PROJECT_DIR$/rest/sample_method.php" />
+        <option value="$PROJECT_DIR$/app/control/relatorios/ProdutoQRCode.php" />
+        <option value="$PROJECT_DIR$/rest/sample_between.php" />
+        <option value="$PROJECT_DIR$/rest/produto_method.php" />
+        <option value="$PROJECT_DIR$/rest/unit_all.php" />
+        <option value="$PROJECT_DIR$/app/service/UnitService.php" />
+        <option value="$PROJECT_DIR$/rest.php" />
+        <option value="$PROJECT_DIR$/app/service/ProdutoService.php" />
+        <option value="$PROJECT_DIR$/app/control/pedidos/PedidoForm.php" />
+        <option value="$PROJECT_DIR$/rest/pedido_new.php" />
+        <option value="$PROJECT_DIR$/app/service/PedidoItemService.php" />
+        <option value="$PROJECT_DIR$/rest/pedidoitem_new.php" />
+        <option value="$PROJECT_DIR$/rest/sample_all.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/vendor/composer.json" />
+        <option value="$PROJECT_DIR$/app/model/EstadoPedido.class.php" />
+        <option value="$PROJECT_DIR$/app/model/Estado.class.php" />
+        <option value="$PROJECT_DIR$/app/model/Cidade.class.php" />
+        <option value="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/GeraNFe.php" />
+        <option value="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaNFCeQrCode.php" />
+        <option value="$PROJECT_DIR$/vendor/nfephp/tests/NFe/ToolsNFeTest.php" />
+        <option value="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaCadastro.php" />
+        <option value="$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/testaNFCe.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/app/templates/theme4/plugins/bootstrap-material-datetimepicker/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpDebugGeneral" hide_empty_superglobals="false" ignore_connections_through_unregistered_servers="true" listening_started="true" max_simultaneous_connections="3" show_pre_config_in_remote_debug="false" xdebug_force_break_when_outside_project="false" />
+  <component name="PhpServers">
+    <servers>
+      <server debugger_id="php.debugger.ZendDebugger" host="localhost/srmenu" id="a7c9553b-2f37-480d-829c-710fc28800e2" name="localhost/srmenu" />
+    </servers>
+  </component>
+  <component name="PhpWebServerValidation" path_to_validation_script="C:\wamp64\www\srmenu" selected_validation_type="LOCAL" web_path_to_validation_script="http://127.0.0.1/srmenu" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 5.6">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/picqer/php-barcode-generator" />
+      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/dompdf/dompdf" />
+      <path value="$PROJECT_DIR$/vendor/phprtflite/phprtflite" />
+      <path value="$PROJECT_DIR$/vendor/sabberworm/php-css-parser" />
+      <path value="$PROJECT_DIR$/vendor/tburry/pquery" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/images" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/exemplos" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/schemes" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/certs" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/.git" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/tests" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/install" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/vendor" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/libs" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/config" />
+      <path value="" />
+      <path value="$PROJECT_DIR$/../../bin/php/php5.6.35" />
+      <path value="$PROJECT_DIR$/vendor/vendor/bin" />
+      <path value="$PROJECT_DIR$/vendor/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/vendor/league" />
+      <path value="$PROJECT_DIR$/vendor/vendor/nfephp-org" />
+      <path value="$PROJECT_DIR$/vendor/vendor/justinrainbow" />
+      <path value="$PROJECT_DIR$/vendor/vendor/psr" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/NFe" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/NFSe" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/CLe" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/CTe" />
+      <path value="$PROJECT_DIR$/vendor/nfephp/MDFe" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="srmenu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="srmenu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="srmenu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="srmenu" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="srmenu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="srmenu" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="adianti" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="srmenu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="srmenu" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="adianti" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="srmenu" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="DDL Data Source&#10;MySQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AdminBSB" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\srmenu\vendor\nfephp\schemes\NFe\PL_008i2" />
+      <recent name="C:\wamp64\www\srmenu\vendor\nfephp\schemes\NFe" />
+      <recent name="C:\wamp64\www\srmenu\vendor\nfephp\exemplos\NFe" />
+      <recent name="C:\wamp64\www\srmenu\app\model" />
+      <recent name="C:\wamp64\www\srmenu\rest" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHP Script.LoginForm.class.php">
+    <configuration name="LoginForm.class.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/app/control/admin/LoginForm.class.php" />
+    <configuration name="sample_all.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/rest/sample_all.php" />
+    <list>
+      <item itemvalue="PHP Script.sample_all.php" />
+      <item itemvalue="PHP Script.LoginForm.class.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.LoginForm.class.php" />
+        <item itemvalue="PHP Script.sample_all.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3265ceda-7ff2-4fc9-8760-5f6100b9a713" name="Default" comment="" />
+      <created>1528498992548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528498992548</updated>
+      <workItem from="1528498994847" duration="17945000" />
+      <workItem from="1528551637589" duration="20824000" />
+      <workItem from="1528754555911" duration="90000" />
+      <workItem from="1528754696996" duration="9444000" />
+      <workItem from="1529360848528" duration="17178000" />
+      <workItem from="1529514945814" duration="225000" />
+      <workItem from="1529515273363" duration="35597000" />
+      <workItem from="1529886678896" duration="506000" />
+      <workItem from="1529893687917" duration="1639000" />
+      <workItem from="1530145534826" duration="44724000" />
+      <workItem from="1530646449793" duration="30078000" />
+      <workItem from="1530820951999" duration="1042000" />
+      <workItem from="1530885704757" duration="884000" />
+      <workItem from="1530895953695" duration="731000" />
+      <workItem from="1530897796420" duration="64000" />
+      <workItem from="1530898887803" duration="883000" />
+      <workItem from="1530899842712" duration="4241000" />
+      <workItem from="1530933376106" duration="394000" />
+      <workItem from="1530933798219" duration="5920000" />
+      <workItem from="1531092054169" duration="12266000" />
+      <workItem from="1531105730039" duration="1160000" />
+      <workItem from="1531106946379" duration="8273000" />
+      <workItem from="1531157505264" duration="24522000" />
+      <workItem from="1531263837509" duration="12142000" />
+      <workItem from="1531746679371" duration="344000" />
+      <workItem from="1531747193757" duration="11791000" />
+      <workItem from="1532012205273" duration="15695000" />
+      <workItem from="1532448803737" duration="1382000" />
+      <workItem from="1533573590306" duration="2400000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="282384000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27458397" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5015129" side_tool="true" weight="0.3069307" />
+      <window_info anchor="right" id="Database" order="3" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32838285" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32838285" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49848714" weight="0.32673267" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49848714" weight="0.26567656" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Command Line Tools Console" order="10" weight="0.32913387" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32838285" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/control/cadastros_basicos/ProdutoList.php</url>
+          <line>81</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/app/control/cadastros_basicos/ProdutoList.php</url>
+          <line>100</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="30" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PhpWebAppRunConfigurationType">
+        <watch expression="$content" language="PHP" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>$content</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>$_COOKIE</expression-string>
+        <language-id>PHP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaDaevento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-254" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaDanfce.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaDanfe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-87" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer.lock">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/src/Make.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8262" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/bin/validate-json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auth.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-612" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/VERSION.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/storage/config.schema">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vendor/nfephp-org/sped-nfe/storage/autorizadores.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-835" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/control/cadastros_basicos/PessoaList.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/sql/cidades.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90151">
+          <caret line="5318" column="90" selection-end-line="5612" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13524.47060/Estado.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa13524.47873/Estado.php" />
+    <entry file="file://$PROJECT_DIR$/app/model/EstadoPedido.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Cidade.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="25" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/control/cadastros_basicos/CidadeList.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Estado.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaConsultaChave.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/GeraNFe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaCCe.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaCadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaAssinaNFe.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/NOTAFISCAL310.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/35101158716523000119550010000000011003000000-nfe.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/35101158716523000119550010000000011003000000-nfe.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/11101284613439000180550010000004881093997017-nfe.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/10142785000190-cce.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/exemploNFCe.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3485">
+          <caret line="205" column="12" selection-start-line="205" selection-start-column="12" selection-end-line="205" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/xml/exemploNFCe_1.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/schemes/NFe/PL_009_V4/nfe_v4.00.xsd" />
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/schemes/NFe/PL_008i2/nfe_v4.00.xsd" />
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/testaNFCe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="41" column="14" selection-start-line="41" selection-start-column="14" selection-end-line="41" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/tests/NFe/ToolsNFeTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="40" selection-start-line="17" selection-start-column="40" selection-end-line="17" selection-end-column="40" />
+          <folding>
+            <element signature="e#160#184#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaMakeNFe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+          <folding>
+            <element signature="e#100#123#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/sql/cofins.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/sql/csosn.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/sql/estados.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" column="105" selection-start-line="49" selection-start-column="105" selection-end-line="49" selection-end-column="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/NFe/4.00testaNFCeQrCode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3867">
+          <caret line="41" column="17" selection-start-line="41" selection-start-column="17" selection-end-line="41" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/nfephp/exemplos/sql/icms.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/control/install/DatabaseInstall.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1391">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/control/install/ExtensionsInstall.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#small#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/model/Pedido.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-122">
+          <caret line="207" column="16" selection-start-line="207" selection-start-column="16" selection-end-line="207" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/sample_between.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/sample_login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="50" lean-forward="true" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/adianti/database/TConnection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="78" column="35" lean-forward="true" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bacon/bacon-qr-code" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/dompdf/dompdf" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/CLe" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/CTe" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/MDFe" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/NFSe" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/NFe" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/certs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/config" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/exemplos" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/images" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/install" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/schemes" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/tests" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/nfephp/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-font-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phenx/php-svg-lib" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phpmailer/phpmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/phprtflite/phprtflite" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/picqer/php-barcode-generator" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/sabberworm/php-css-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/tburry/pquery" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/justinrainbow" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/league" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/nfephp-org" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/vendor/psr" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

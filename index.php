@@ -1,3 +1,6 @@
+<?php
+date_default_timezone_set("America/Sao_Paulo");
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -16,15 +19,15 @@
 
         <!-- Google Font -->
         <link href="https://fonts.googleapis.com/css?family=Lato:100,300,300i,400,400i,700,900" rel="stylesheet"> 
-        <link href="font-awesome.css" rel="stylesheet" type="text/css">
-        <link href="css/icons/style.css?2020-06-08 11:04:40" rel="stylesheet" type="text/css">
+        <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+        <link href="css/icons/style.css?<?= date('Y-m-d H:i:s'); ?>" rel="stylesheet" type="text/css">
 
         <!-- Core CSS -->
-        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
-        <link rel="stylesheet" href="https://kenwheeler.github.io/slick/slick/slick.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css?<?= date('Y-m-d H:i:s'); ?>">
+        <link rel="stylesheet" href="js/slick/slick.css?<?= date('Y-m-d H:i:s'); ?>">
 
         <!-- Theme CSS -->
-        <link href="css/style.css?2020-06-08 11:04:40" rel="stylesheet">
+        <link href="css/style.css?<?= date('Y-m-d H:i:s'); ?>" rel="stylesheet">
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,18 +36,9 @@
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <script src="https://code.jquery.com/jquery-1.11.3.js"></script>
-        <php>
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-123784172-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+        <script src="js/jquery.js"></script>
+        <?php include_once("analyticstracking.php") ?>
 
-        gtag('config', 'UA-123784172-1');
-    </script>
-</php>
 
     </head>
     <body>
@@ -377,16 +371,16 @@
 
         <!-- jQuery -->
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-        <script src="https://mathiasbynens.github.io/jquery-placeholder/jquery.placeholder.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.compatibility.min.js"></script>
-        <script src="jarallax-0.2.4b.min.js"></script>
-        <script src="https://kenwheeler.github.io/slick/slick/slick.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/jquery.placeholder.js"></script>
+        <script src="js/jquery.easing.min.js"></script>
+        <script src="js/jarallax/jarallax.js"></script>
+        <script src="js/slick/slick.min.js"></script>
         <script src="js/theme.js"></script>
         <script src="js/contact.js"></script>
 
         <!-- Mailchimp -->
-        <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.min.js"></script>
+        <script type="text/javascript" src="js/jquery.validate.min.js"></script>
         <script>
                 // this is the id of the form
                 $("#idForm").submit(function (e) {
